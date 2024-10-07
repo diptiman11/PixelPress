@@ -1,1 +1,1 @@
-/Users/abhar/Desktop/pixelpress/image.png
+"C:\Users\user\Desktop\jupyter\PROJECTS\pixelpress\image.png"
